@@ -1,5 +1,5 @@
 {
-  "name": "pw-generator",
+  "name": "@almanoduerme/pw-generator",
   "version": "1.0.0",
   "author": "Nahuel Gómez <ngomezdw@gmail.com> (https://www.gomeznahuel.com.ar)",
   "description": "Starter for TypeScript Libraries",
